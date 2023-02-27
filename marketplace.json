@@ -1,0 +1,19 @@
+{
+  "label": "Collapsible Tree Custom Chart",
+  "category_label": "Plug-ins",
+  "branding": {
+    "image_uri": "",
+    "tagline": "Use the Collapsible Tree Custom Chart to display a Collapsible Tree Custom Chart"
+  },
+   "constants": {
+        "VIS_LABEL": {
+            "label": "Collapsible Label",
+            "description": "This label will appear in the visualization selector in the Looker Explore UI."
+        },
+        "VIS_ID": {
+            "label": "kb_collapsible_Id",
+            "description": "This must be a unique ID across all visualizations.",
+            "value_constraint": "visualization"
+        }
+    }
+}
